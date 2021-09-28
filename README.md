@@ -1,4 +1,3 @@
-## Grupo de estudos PyLadies Brasil
 ![grupopyladies](https://user-images.githubusercontent.com/70456452/126913924-8cb69a49-8163-423f-bab4-e0b0f5d3a9c4.png)
 
 ###  Esse repositório foi criado com o objetivo de expor meus avanços e exercícios realizados no grupo de estudos de python intermediário da PyLadies Brasil
